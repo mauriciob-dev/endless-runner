@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: db7d5e40b119f1eb48be7261085cc8a6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - groundTilePrefab: {instanceID: 0}
+  - playerTransform: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
