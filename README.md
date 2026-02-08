@@ -1,7 +1,7 @@
 # Endless Runner – Unity Prototype
 
 ## Overview
-This project is a prototype of an **endless runner game** developed in Unity.  
+This project is a prototype of an **endless runner game** for mobile developed in Unity.  
 It focuses on core gameplay mechanics, player movement, obstacle spawning, and the core game loop.
 
 The goal of the project is to practice and demonstrate skills in gameplay programming, object lifecycle management, and clean, maintainable Unity development.
