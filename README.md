@@ -25,12 +25,12 @@ The goal of the project is to practice and demonstrate skills in gameplay progra
 ---
 
 ## Project Structure
-Assets/
-Scripts/
-Prefabs/
-Scenes/
-Packages/
-ProjectSettings/
+Assets/<br>
+Scripts/<br>
+Prefabs/<br>
+Scenes/<br>
+Packages/<br>
+ProjectSettings/<br>
 
 
 ---
